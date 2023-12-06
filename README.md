@@ -1,4 +1,4 @@
-# Snake Game
+# Snake Game lite
 
 ---
 
@@ -37,7 +37,7 @@ We welcome your contributions! Also, follow me on my social media to support thi
 
 ---
 
-## Juego de la Serpiente
+## Juego de la Serpiente lite
 
 ---
 
