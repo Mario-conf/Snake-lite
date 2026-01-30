@@ -2,7 +2,7 @@
 
 ---
 
-![Snake Game](snake.png)
+![Snake Game](https://t3.ftcdn.net/jpg/09/55/39/32/360_F_955393249_L8pnJDiRHv6OviwOZM9miU227XekmGjv.jpg)
 
 ### Description
 
@@ -41,7 +41,7 @@ We welcome your contributions! Also, follow me on my social media to support thi
 
 ---
 
-![Juego de la Serpiente](snake.png)
+![Juego de la Serpiente](https://t3.ftcdn.net/jpg/09/55/39/32/360_F_955393249_L8pnJDiRHv6OviwOZM9miU227XekmGjv.jpg)
 
 ### Descripción
 
