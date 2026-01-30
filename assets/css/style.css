@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
+
+html, body {
+  height: 100%;
+  margin: 0;
+  font-family: 'Press Start 2P', cursive; /* Retro gaming font */
+  color: #0f0; /* Matrix Green */
+}
+
+body {
+  background-color: #111; /* Dark background */
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+h2#score, h2#highScore {
+  margin: 10px 0;
+  text-shadow: 2px 2px 0px #000;
+}
+
+canvas {
+  border: 4px solid #0f0;
+  box-shadow: 0 0 20px rgba(0, 255, 0, 0.5); /* Glowing effect */
+  background-color: #000;
+} 

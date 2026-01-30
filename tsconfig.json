@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    "target": "es6",
+    "module": "none",
+    "strict": true,
+    "noImplicitAny": true,
+    "removeComments": false,
+    "preserveConstEnums": true,
+    "sourceMap": true,
+    "outFile": "./assets/js/snake.js"
+  },
+  "include": [
+    "src/**/*"
+  ]
+}
